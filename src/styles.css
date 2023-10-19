@@ -163,6 +163,13 @@ p.descriptions {
   font-weight: 600;
   text-align: center;
 }
+.music p {
+  font-size: 14px;
+}
+.music a {
+  color: #a34a28;
+  text-decoration: none;
+}
 
 footer p {
   font-size: 12px;
